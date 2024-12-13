@@ -21,6 +21,9 @@ The data spans the period from September 2016 to October 2018 and includes the f
 - Customer ratings at the order level
 #### 8.	<a href="https://github.com/SourabhaSekharRout/Marketing-Analytics-For-E-Commerce-Market-Place-Company/blob/main/GEO_LOCATION.csv">Geo-Location</a>:
 - Location details
+## Data Model:
+![image](https://github.com/user-attachments/assets/3ab708e5-f732-4d55-8823-655f62b55fd4)
+
 ## Process
 -	Data Import: Importing the provided datasets into the environment.
 -	Data Type Changes: Adjusting column data types as needed (e.g., dates, numerical fields).
